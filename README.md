@@ -73,9 +73,9 @@ Pkg.add(url="https://github.com/cometscome/MACEInterface.jl")
 
 Python dependencies such as
 
--   mace-torch\
--   ase\
--   torch\
+-   mace-torch
+-   ase
+-   torch
 -   numpy
 
 are installed automatically using `CondaPkg.jl`.
