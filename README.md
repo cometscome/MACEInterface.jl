@@ -68,7 +68,7 @@ https://arxiv.org/abs/2206.07697
 
 ``` julia
 using Pkg
-Pkg.add(url="https://github.com/USER/MACEInterface.jl")
+Pkg.add(url="https://github.com/cometscome/MACEInterface.jl")
 ```
 
 Python dependencies such as
