@@ -1,0 +1,9 @@
+[deps]
+pixi = ""
+python = ""
+
+[pip.deps]
+mace-torch = ""
+matscipy = ""
+ase = ""
+numpy = ""
