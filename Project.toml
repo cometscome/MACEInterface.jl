@@ -1,0 +1,13 @@
+name = "MACEInterface"
+uuid = "702af922-8fe5-4898-93bf-1d716fce3ecb"
+authors = ["cometscome <cometscome@gmail.com> and contributors"]
+version = "1.0.0-DEV"
+
+[compat]
+julia = "1.11"
+
+[extras]
+Test = "8dfed614-e22c-5e08-85e1-65c5234f0b40"
+
+[targets]
+test = ["Test"]
