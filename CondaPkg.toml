@@ -1,6 +1,6 @@
 [deps]
 pixi = ""
-python = ""
+python = "3.10.*"
 
 [pip.deps]
 mace-torch = ""
